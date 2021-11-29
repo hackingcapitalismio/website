@@ -1,6 +1,7 @@
-# Prine
+# Hacking Capitalism
 
-Hacker and Terminal theme for Hugo based on Nivenly.com
+The official source code for the website HackingCapitalism.io
+
 
 
 

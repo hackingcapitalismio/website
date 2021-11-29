@@ -1,0 +1,5 @@
+#!/bin/bash
+REPO="krisnova"
+NAME="hackingcapitalism.io"
+TAG="latest"
+SHA="$(git rev-parse HEAD)"
