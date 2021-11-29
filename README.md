@@ -1,2 +1,7 @@
-# website
-The source code for HackingCapitalism.io
+# Prine
+
+Hacker and Terminal theme for Hugo based on Nivenly.com
+
+
+
+
