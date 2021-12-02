@@ -1,3 +1,4 @@
 #!/bin/bash
 hugo
+#hugo serve
 go run main.go
