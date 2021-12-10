@@ -18,7 +18,7 @@ theme = "prine"
 
 [languages.en.params.logo]
     logoUser = "nova"
-    logoHost = "hackingcapitalism"
+    logoHost = "hackingcapitalism.io"
 
 [languages.en.menu]
     [[languages.en.menu.main]]
