@@ -1,4 +1,8 @@
 #!/bin/bash
+
+rm -rf public
 hugo
-#hugo serve
-go run main.go
+hugo serve \
+    --disableFastRender \
+    --noHTTPCache \
+    --forceSyncStatic

@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Prine'
+title = ''
 theme = "prine"
 
 [params]
@@ -14,20 +14,11 @@ theme = "prine"
     youtubeText = "Official YouTube channel!"
     settingsURL = "https://nivenly.com"
     settingsText = "Tweak your site's settings."
-
-
-
-[languages]
-    [languages.en]
-        description = "Prine is a hugo theme based on Nivenly.com"
-        title = "Prine - Terminal Inspired Hugo Theme"
-        subtitle = "Based on the theme from Nivenly.com"
-        keywords = "Kris Nova, krisnova, Nóva, Nova, Hugo, Theme, Terminal, Hacker"
-        copyright = "2021 Kris Nóva"
+    footerText = "First you go up. Then you come back down."
 
 [languages.en.params.logo]
     logoUser = "nova"
-    logoHost = "prine"
+    logoHost = "hackingcapitalism"
 
 [languages.en.menu]
     [[languages.en.menu.main]]
