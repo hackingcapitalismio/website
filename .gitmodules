@@ -1,3 +1,6 @@
 [submodule "static/brand"]
 	path = static/brand
 	url = git@github.com:kris-nova/brand.git
+[submodule "themes/prine"]
+	path = themes/prine
+	url = git@github.com:kris-nova/prine.git
