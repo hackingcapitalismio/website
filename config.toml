@@ -15,6 +15,7 @@ theme = "prine"
     settingsURL = "https://nivenly.com"
     settingsText = "Tweak your site's settings."
     footerText = "First you go up. Then you come back down."
+    copyright = "2022 Kris Nóva"
 
 [languages.en.params.logo]
     logoUser = "nova"
