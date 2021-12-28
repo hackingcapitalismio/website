@@ -44,9 +44,11 @@ Learn how to break into their inner circles of trust.
 
 ## Kris Nóva
 
-{{< nova >}}
 
 Kris Nóva is a computer scientist, alpinist, public speaker and transgender advocate best known for her work on Linux and Kubernetes.
+
+{{< nova >}}
+
 
 She specializes in Linux kernel security, distributed systems, infrastructure management, and open source software engineering. 
 
