@@ -5,7 +5,9 @@ summary: "Find out more about Kris Nóva's book 'Hacking Capitalism' published 2
 ---
 
 {{< title >}}
+{{< subtitle >}}
 
+## About
 
 An independently published nonfiction book about modeling the tech industry as a system.
 
@@ -40,11 +42,9 @@ Lurking at the top of the industry is a group of privileged elite.
 Learn how to outperform them, and communicate with them.
 Learn how to break into their inner circles of trust. 
 
-{{< nova >}}
-
-
 ## Kris Nóva
 
+{{< nova >}}
 
 Kris Nóva is a computer scientist, alpinist, public speaker and transgender advocate best known for her work on Linux and Kubernetes.
 
