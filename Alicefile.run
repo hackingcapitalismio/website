@@ -2,7 +2,4 @@
 
 rm -rf public
 hugo
-hugo serve \
-    --disableFastRender \
-    --noHTTPCache \
-    --forceSyncStatic
+go run main.go

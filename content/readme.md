@@ -1,36 +1,44 @@
-# About
+---
+date: "2021-12-17"
+keywords: "About, Book, Readme, Hacking, Capitalism, Summary, More"
+summary: "Find out more about Kris Nóva's book 'Hacking Capitalism' published 2022."
+---
 
-Welcome to the about section of the theme. 🎉
+{{< title >}}
 
-Here you can add valid markdown and have it rendered directly in the `/readme` page.
 
- - [Official Biography](https://nivenly.com/bio)
- - [Theme GitHub](https://github.com/kris-nova/prine)
+This is an independently published book about modeling the tech industry as a system.
 
-### Code Samples
+Particularly this book will model computers, humans, and money and their subsequent relationships. 
 
-You can easily add code samples to the theme, and they will be rendered on the website.
-This snippet is taken from my Kubernetes application management tool called [naml](https://github.com/kris-nova/naml)
+Understand the alarming state of the tech industry for better or for worse.
 
-```go
-// Deployable is an interface that can be implemented
-// for deployable applications.
-type Deployable interface {
+### Written For Marginalized Technologists
 
-    // Install will attempt to install in Kubernetes
-    Install(client kubernetes.Interface) error
+{{< art >}}
 
-    // Uninstall will attempt to uninstall in Kubernetes
-    Uninstall(client kubernetes.Interface) error
 
-    // Meta returns a NAML Meta structure which embed Kubernetes *metav1.ObjectMeta
-    Meta() *AppMeta
+This book is designed so that anyone will find value, however it specifically designed to give marginalized technologists a set of tools in aiding their ability to exploit a fundamentally unbalanced system.
 
-    // Objects will return the runtime objects defined for each application
-    Objects() []runtime.Object
-}
-```
+### Think Like A Hacker 
 
-Make sure you valid Syntax highlighting code blocks.
 
-You can add lists, images, and shortcodes here directly in the markdown.
+
+This book draws inspiration from my professional history in Linux and Kubernetes security, distributed threat modeling, kernel security, and cloud infrastructure for techniques on modeling and exploiting the system that is the Silicon Valley tech industry. 
+
+If you enjoy linear thinking, modeling complex relationships as systems, and learning about the strategy I developed to become a Senior Principal Engineer in Silicon Valley, this book is for you.
+
+### Understand Exploitation 
+
+Working in tech involves more than just coding. 
+This book is the manual that I wish I had in my career that will lay out the culture, economics, expectations, and business philosophies such that anyone can understand.
+
+Learn to exploit the system, before the system exploits you.
+
+### Privilege Escalation 
+
+Lurking at the top of the industry is a group of privileged elite.
+Learn how to outperform them, and communicate with them.
+Learn how to break into their inner circles of trust. 
+
+{{< early-signup >}}

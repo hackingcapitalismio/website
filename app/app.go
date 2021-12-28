@@ -43,8 +43,7 @@ func (h HackingCapitalism) Values(request *http.Request) interface{} {
 }
 
 func (h HackingCapitalism) Refresh() {
-	h.Lock()
-	defer h.Unlock()
+	//
 }
 
 func ListenAndServe() error {
@@ -65,7 +64,7 @@ func ListenAndServe() error {
 
 		// BindAddress is the bind address and port following
 		// the host:port string convention in Go.
-		BindAddress: ":1313",
+		BindAddress: ":1315",
 
 		// ServerDirectory looks weird but it's fine (I promise).
 		//
