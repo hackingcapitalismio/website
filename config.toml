@@ -28,7 +28,7 @@ theme = "prine"
 
 [languages.en.params.logo]
     logoUser = "nova"
-    logoHost = "hackingcapitalism"
+    logoHost = "hc"
 [languages.en.menu]
     [[languages.en.menu.main]]
         identifier = "readme"
