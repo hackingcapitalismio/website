@@ -42,12 +42,15 @@ Lurking at the top of the industry is a group of privileged elite.
 Learn how to outperform them, and communicate with them.
 Learn how to break into their inner circles of trust. 
 
+{{< nova >}}
+
+
 ## Kris Nóva
+
 
 
 Kris Nóva is a computer scientist, alpinist, public speaker and transgender advocate best known for her work on Linux and Kubernetes.
 
-{{< nova >}}
 
 
 She specializes in Linux kernel security, distributed systems, infrastructure management, and open source software engineering. 
