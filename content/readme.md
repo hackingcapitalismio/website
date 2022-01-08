@@ -1,6 +1,6 @@
 ---
 date: "2021-12-17"
-keywords: "About, Book, Readme, Hacking, Capitalism, Summary, More"
+keywords: "About, Book, Readme, Hacking, Capitalism, Summary, More, HackingCapitalism, Kris Nova, Nonfiction"
 summary: "Find out more about Kris Nóva's book 'Hacking Capitalism' published 2022."
 ---
 
@@ -9,11 +9,13 @@ summary: "Find out more about Kris Nóva's book 'Hacking Capitalism' published 2
 
 ## About
 
-An independently published nonfiction book about modeling the tech industry as a system.
+Hacking Capitalism is an independently published book about modeling the tech industry as a system.
 
-Particularly this book will model computers, humans, and money and their subsequent relationships. 
+Particularly this book will model computers, humans, and money and their subsequent relationships in tech.
 
-Understand the alarming state of the tech industry for better or for worse.
+Understand the nature of the tech industry through the same modelling that investors and entrepreneurs use to rationalize it.
+
+The tech industry is ruthless. However, the tech industry is predictable. This book will teach you to predict the behavior of the industry, and predict its outcomes. Learn to use these tactics to support yourself.
 
 ## Written For Marginalized Technologists
 
@@ -48,10 +50,7 @@ Learn how to break into their inner circles of trust.
 ## Kris Nóva
 
 
-
 Kris Nóva is a computer scientist, alpinist, public speaker and transgender advocate best known for her work on Linux and Kubernetes.
-
-
 
 She specializes in Linux kernel security, distributed systems, infrastructure management, and open source software engineering. 
 
