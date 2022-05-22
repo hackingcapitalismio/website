@@ -13,7 +13,7 @@ Hacking Capitalism is an independently published book about modeling the tech in
 
 Particularly this book will model computers, humans, and money and their subsequent relationships in tech.
 
-Understand the nature of the tech industry through the same modelling that investors and entrepreneurs use to rationalize it.
+Understand the nature of the tech industry through the same Modeling that investors and entrepreneurs use to rationalize it.
 
 The tech industry is ruthless. However, the tech industry is predictable. This book will teach you to predict the behavior of the industry, and predict its outcomes. Learn to use these tactics to support yourself.
 

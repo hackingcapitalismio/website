@@ -28,7 +28,7 @@ spec:
     spec:
       hostNetwork: true
       containers:
-        - image: krisnova/hackingcapitalism.io:latest
+        - image: docker.io/krisnova/hackingcapitalism.io:latest
           volumeMounts:
             - mountPath: /data/anchovies
               name: anchovies
