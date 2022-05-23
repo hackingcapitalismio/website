@@ -46,7 +46,7 @@ spec:
           imagePullPolicy: Always
           name: hackingcapitalism
           ports:
-            - containerPort: 1315
+            - containerPort: 30010
               protocol: TCP
           resources: {}
           terminationMessagePath: /dev/termination-log
